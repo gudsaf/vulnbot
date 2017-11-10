@@ -1,0 +1,17 @@
+***** Executable create *****
+
+cx_Freeze
+Executable
+
+
+***** Libraries *****
+
+feedparser
+pyTelegramBotAPI
+telebot
+tweepy
+urllib3
+urlparse2
+requests
+idna
+sqlite3

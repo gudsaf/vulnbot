@@ -11,4 +11,4 @@ telebot_token   = '388812987:AAHtXvOhI_qgshlBu8ABJ0w8lZSK-oku7MQ'
 telebot_id      = '@SberCTI'
 
 # имя базы данных
-SQLDatabase     = 'database/ParserDB.db'
+SQLDatabase     = 'database/VulnParserDB.db'

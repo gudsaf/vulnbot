@@ -19,7 +19,7 @@ packages = [
 include_files = [
     "bot/bot_exceptions.py",
     "bot/telegrambot.py",
-    "database/ParserDB.db",
+    "database/VulnParserDB.db",
     "config.py",
     "rsslinks.txt"
     ]
